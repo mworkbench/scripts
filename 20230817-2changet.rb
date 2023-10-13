@@ -9,7 +9,7 @@ if ARGV.size < 2 then
 end
 
 # 保存対象ファイルの拡張子
-POSTFIX = ["jpeg", "jpg", "gif", "mp4", "webm", "qt"]
+POSTFIX = ["png", "jpeg", "jpg", "gif", "mp4", "webm", "qt"]
 
 
 PREFIX = ARGV[0]
